@@ -20,12 +20,12 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "FACEBOOK_ADMIN": "",
-    "BOTNAME": "🌌",
+    "BOTNAME": "bot",
     "PREFIX": "!",
     "BOXADMIN": "",
-    "ADMINBOT": ["100018277053087"],
+    "ADMINBOT": ["61561400514605"],
     "NDH": [
-        "100018277053087"
+        "61561400514605"
     ],
     "version": "3.0.0",
     "menu": {
